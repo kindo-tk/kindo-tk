@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kindo-tk&show_icons=true&locale=en" alt="kindo-tk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kindo-tk&" alt="kindo-tk" /></p>
