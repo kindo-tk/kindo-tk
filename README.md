@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **tufan.kundu11@gmail.com**
 
--  👨🏻‍💻 <a href="https://kindo-tk.github.io/tk.github.io/" target="blank">Portfolio</a>
+-  👨🏻‍💻 <a href="https://kindo-tk.github.io/tk.github.io/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
