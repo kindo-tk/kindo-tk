@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tufan Kundu</h1>
+<h1 align="center">Hi, I'm Tufan Kundu</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.toiimg.com/thumb/width-350,height-197,imgsize-4784574,msid-103049311/103049311.jpg">
