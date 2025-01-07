@@ -16,7 +16,6 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/kindo_tk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kindo_tk" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tufan-kundu-577945221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tufan-kundu-577945221" height="30" width="40" /></a>
 </p>
 
