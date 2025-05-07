@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tufan Kundu</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Aspiring Data Scientist | Lifelong Learner | Problem Solver</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.toiimg.com/thumb/width-350,height-197,imgsize-4784574,msid-103049311/103049311.jpg">
 
@@ -8,9 +8,11 @@
 </p>
 
 ### 🌟 About Me
-- 🌱 Currently learning **Data Science**
-- 👯 Open to collaborating on **Data Science Projects**
-- 💬 Ask me about **Python, SQL**
+
+I'm **Tufan Kundu**, a Mathematics graduate and current **M.Sc. Data Science** student at **VIT Vellore**. I’m passionate about turning data into actionable insights through analysis, modeling, and visualization. I enjoy applying what I learn in real-world settings and continuously expanding my technical and analytical skillset.
+
+- 🔍 Currently exploring advanced ML and ensemble learning  
+- 🤝 Always open to interesting collaborations  
 - 📫 Reach me at **tufan.kundu11@gmail.com**
 - 🌐 Check out my <a href="https://kindo-tk.github.io/tk.github.io/" target="_blank">Portfolio</a>
 
@@ -40,6 +42,8 @@
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
+      <img src="https://logotyp.us/file/r.svg" alt="R" width = "40" height = "40"/>
+      <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "R" width = "40" height = "40"/>
     </td>
     <td>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
