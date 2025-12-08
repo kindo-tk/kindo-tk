@@ -7,14 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=kindo-tk&label=Profile%20views&color=0e75b6&style=flat" alt="kindo-tk" /> 
 </p>
 
-### 🌟 About Me
+### About Me
 
 I'm **Tufan Kundu**, a Mathematics graduate and current **M.Sc. Data Science** student at **VIT Vellore**. I’m passionate about turning data into actionable insights through analysis, modeling, and visualization. I enjoy applying what I learn in real-world settings and continuously expanding my technical and analytical skillset.
 
-- 🔍 Currently exploring advanced ML and ensemble learning  
-- 🤝 Always open to interesting collaborations  
-- 📫 Reach me at **tufan.kundu11@gmail.com**
-- 🌐 Check out my <a href="https://kindo-tk.github.io/tk.github.io/" target="_blank">Portfolio</a>
+-  Currently exploring advanced ML and ensemble learning  
+-  Always open to interesting collaborations  
+-  Reach me at **tufan.kundu11@gmail.com**
+-  Check out my <a href="https://kindo-tk.github.io/tk.github.io/" target="_blank">Portfolio</a>
 
 ### 🔗 Connect with Me
 <p align="left">
@@ -87,7 +87,3 @@ I'm **Tufan Kundu**, a Mathematics graduate and current **M.Sc. Data Science** s
     </td>
   </tr>
 </table>
-
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kindo-tk&show_icons=true&locale=en&layout=compact" alt="kindo-tk" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kindo-tk&show_icons=true&locale=en" alt="kindo-tk" /></p>
