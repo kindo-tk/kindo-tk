@@ -1,89 +1,104 @@
-<h1 align="center">Hi, I'm Tufan Kundu</h1>
-<h3 align="center">Aspiring Data Scientist | Lifelong Learner | Problem Solver</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3592FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Tufan+Kundu;M.Sc.+Data+Science+Student;Mathematics+Graduate;Applied+Data+Science+Learner" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="coding" width="400" src="https://static.toiimg.com/thumb/width-350,height-197,imgsize-4784574,msid-103049311/103049311.jpg">
+<div align="center">
+  <h3>M.Sc. Data Science Student at VIT Vellore</h3>
+</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kindo-tk&label=Profile%20views&color=0e75b6&style=flat" alt="kindo-tk" /> 
+<p align="center">
+  <a href="https://linkedin.com/in/tufan-kundu-577945221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tufan.kundu11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://kindo-tk.github.io/tk.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
 </p>
 
-### About Me
+---
 
-I'm **Tufan Kundu**, a Mathematics graduate and current **M.Sc. Data Science** student at **VIT Vellore**. I’m passionate about turning data into actionable insights through analysis, modeling, and visualization. I enjoy applying what I learn in real-world settings and continuously expanding my technical and analytical skillset.
+## About Me
 
--  Currently exploring advanced ML and ensemble learning  
--  Always open to interesting collaborations  
--  Reach me at **tufan.kundu11@gmail.com**
--  Check out my <a href="https://kindo-tk.github.io/tk.github.io/" target="_blank">Portfolio</a>
+I am a **Mathematics graduate** currently pursuing an **M.Sc. in Data Science** at **VIT Vellore**. I am interested in building reliable, efficient, and interpretable data-driven systems, with hands-on experience in data analysis, machine learning, and visualization.
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/tufan-kundu-577945221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tufan-kundu-577945221" height="30" width="40" /></a>
+I focus on applying theoretical concepts to real-world datasets and developing **end-to-end solutions** rather than isolated models.
+
+---
+
+## Learning and Current Focus
+
+- **Advanced Machine Learning:** Ensemble methods and predictive modeling  
+- **Deep Learning:** Neural networks and model optimization  
+- **Natural Language Processing:** Text analytics and representation learning  
+- **Generative AI:** LLM fundamentals, RAG pipelines, and agentic systems  
+
+---
+
+## Skills and Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### 🛠️ Languages and Tools
+### Data Science and Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C5C96?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Deep Learning Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+### NLP Tooling
+<p>
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Databases and Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+</p>
+
+---
+
+## GitHub Activity
+
+<div align="center">
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Tools</th>
-    <th>Frameworks & Libraries</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <img src="https://logotyp.us/file/r.svg" alt="R" width = "40" height = "40"/>
-      <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "R" width = "40" height = "40"/>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=kindo-tk&show_icons=true&theme=tokyonight&hide_border=true"/>
     </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-      </a>
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" alt="excel" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/>
-      </a>
-      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-      </a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      </a>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="40" height="40"/>
-      </a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/>
-      </a>
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-      </a>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindo-tk&layout=compact&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kindo-tk&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</div>
+
+<p align="center">
+  Thank you for visiting my profile.
+</p>
