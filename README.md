@@ -86,9 +86,6 @@ I focus on applying theoretical concepts to real-world datasets and developing *
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kindo-tk&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </td>
-    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindo-tk&layout=compact&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
@@ -98,7 +95,7 @@ I focus on applying theoretical concepts to real-world datasets and developing *
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kindo-tk&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </div>
-
+<br>
 <p align="center">
   Thank you for visiting my profile.
 </p>
